@@ -30,7 +30,7 @@ TeXt is a super customizable Jekyll theme for personal site, team site, blog, pr
 
 - Responsive
 - Semantic HTML
-- Skins
+- Skins 
 - Highlight Theme
 - Internationalization
 - Search
